@@ -1,0 +1,18 @@
+[
+  {
+    "id": 9707140367,
+    "name": "Rafael",
+    "email": "rafaelfelipe.r@hotmail.com",
+    "dados": {},
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OTcwNzE0MDM2NywiaWF0IjoxNjgxMTY5ODIxfQ.MNUPWnQyXh1qKy505F4nHkIdDHm89hQJJpfRiIlavJM",
+    "hash": "$2b$10$UotQZta0DVJ6bg4.Jp3JT.fuDvydN4.8XgaV8qfLw9j0Xacj22Dja"
+  },
+  {
+    "id": 5710190478,
+    "name": "Rafael2",
+    "email": "rafael@base2.com.br",
+    "dados": {},
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NTcxMDE5MDQ3OCwiaWF0IjoxNjgxMjIzMTIwfQ.BOAj7S7hrR_ZNeHfsgur9nmBmxwYP2nvLNZoFayiGpk",
+    "hash": "$2b$10$l.W7INPu1pwo5pIDC1XuHOLOUFWNX2rGvgD9/r/gMa.a1HLrzUzvO"
+  }
+]
